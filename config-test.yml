@@ -1,2 +1,2 @@
-config:
-  info: beans config-test  version=1
+config: 
+  info: bean-sconfig-test-version=1
